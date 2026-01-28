@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240.7px" height="129.5px" viewbox="0 0 240.7 129.5" version="1.1">
+  <title>LM5145_BUCK_RGY_A_bottom: null</title>
+  <desc>LM5145_BUCK_RGY_A WebTHERM&amp;reg; Board Layout file</desc>
+<defs>
+<g id="0805">
+  <g id="MASK" style="display:none;">
+  	<g style="display:inline;">
+  		<rect x="0.279" y="0.279" width="7.442" height="4.442"/>
+  		<path d="M7.442,0.558v3.884H0.558V0.558H7.442 M8,0H0v5h8V0L8,0z"/>
+  	</g>
+  </g>
+  <g id="COLOR">
+  	<rect style="fill:#CBCBCB;" width="8" height="5"/>
+  	<rect x="1.75" style="fill:#363636;" width="4.5" height="5"/>
+  </g>
+  <g id="OUTLINE" style="display:none;">
+  	<g style="display:inline;">
+  		<path d="M7.442,0.558v3.884H0.558V0.558H7.442 M8,0H0v5h8V0L8,0z"/>
+  	</g>
+  	<g style="display:inline;">
+  		<path d="M5.656,0.594v3.812H2.344V0.594H5.656 M6.25,0h-4.5v5h4.5V0L6.25,0z"/>
+  	</g>
+  </g>
+</g>
+<g id="0402">
+  <g id="MASK" display="none">
+  	<g display="inline">
+  		<rect x="0.125" y="0.125" width="3.752" height="1.757"/>
+  		<path d="M3.752,0.25v1.507H0.25V0.25H3.752 M4.002,0H0v2.007h4.002V0L4.002,0z"/>
+  	</g>
+  </g>
+  <g id="COLOR">
+  	<rect fill="#CBCBCB" width="4.002" height="2.007"/>
+  	<rect x="1.008" fill="#363636" width="1.986" height="2.007"/>
+  </g>
+  <g id="OUTLINE">
+  	<g>
+  		<path d="M3.752,0.25v1.507H0.25V0.25H3.752 M4.002,0H0v2.007h4.002V0L4.002,0z"/>
+  	</g>
+  	<g>
+  		<path d="M2.744,0.25v1.507H1.258V0.25H2.744 M2.994,0H1.008v2.007h1.986V0L2.994,0z"/>
+  	</g>
+  </g>
+</g>
+<g id="0603">
+  <g id="Mask" style="display:none;">
+  	<rect style="display:inline;" width="6.4" height="3.2"/>
+  	<rect x="1.6" style="display:inline;" width="3.2" height="3.2"/>
+  </g>
+  <g id="Outline" style="display:none;">
+  	<g style="display:inline;">
+  		<path d="M6.15,0.25v2.7h-5.9v-2.7H6.15 M6.4,0H0v3.2h6.4V0L6.4,0z"/>
+  	</g>
+  	<g style="display:inline;">
+  		<path d="M4.55,0.25v2.7h-2.7v-2.7H4.55 M4.8,0H1.6v3.2h3.2V0L4.8,0z"/>
+  	</g>
+  </g>
+  <g id="Color">
+  	<rect style="fill:#B3B3B3;" width="6.4" height="3.2"/>
+  	<rect x="1.6" style="fill:#1A1A1A;" width="3.2" height="3.2"/>
+  </g>
+</g>
+<g id="1210">
+  <g id="MASK" style="display:none;">
+  	<rect style="display:inline;" width="9.071" height="7.087"/>
+  	<rect x="1.701" style="display:inline;" width="5.669" height="7.087"/>
+  </g>
+  <g id="OUTLINE" style="display:none;">
+  	<g style="display:inline;">
+  		<path d="M8.571,0.5v6.087H0.5V0.5H8.571 M9.071,0H0v7.087h9.071V0L9.071,0z"/>
+  	</g>
+  	<g style="display:inline;">
+  		<path d="M6.87,0.5v6.087H2.201V0.5H6.87 M7.37,0H1.701v7.087H7.37V0L7.37,0z"/>
+  	</g>
+  </g>
+  <g id="COLOR">
+  	<rect style="fill:#CBCBCB;" width="9.071" height="7.087"/>
+  	<rect x="1.701" style="fill:#363636;" width="5.669" height="7.087"/>
+  </g>
+</g>
+<g id="1206">
+  <g>
+  	<rect x="0.5" y="0.5" fill="#5B5B5B" stroke="#000000" width="13" height="7"/>
+  	<rect x="0.5" y="0.5" fill="#C6C6C6" stroke="#000000" width="3" height="7"/>
+  	<rect x="10.5" y="0.501" fill="#C6C6C6" stroke="#000000" width="3" height="6.999"/>
+  </g>
+</g>
+<g id="SRP1270">
+  <g id="Mask" display="none">
+  	<polygon display="inline" stroke="#000000" stroke-linejoin="round" points="52.733,20.348 50.867,20.348 50.867,35.266 
+  		52.733,35.266 52.733,49.445 48.609,53.925 3.09,53.925 3.09,35.266 4.801,35.266 4.801,20.348 3.09,20.348 3.09,5.925 6.99,1.837 
+  		52.733,1.837 	"/>
+  	<path display="inline" stroke="#000000" d="M0.511,35.389V3.458c0,0-0.329-2.958,2.636-2.958c2.965,0,4.502,1.232,4.502,1.232
+  		L3.037,6.479v13.87h1.866v15.041H0.511z"/>
+  	<path display="inline" stroke="#000000" d="M55.289,20.411v31.931c0,0,0.329,2.958-2.636,2.958s-4.502-1.232-4.502-1.232
+  		l4.612-4.747v-13.87h-1.867V20.411H55.289z"/>
+  </g>
+  <g id="Color">
+  	<polygon fill="#1A1A1A" stroke="#000000" stroke-linejoin="round" points="52.733,20.348 50.867,20.348 50.867,35.266 
+  		52.733,35.266 52.733,49.445 48.609,53.925 3.09,53.925 3.09,35.266 4.801,35.266 4.801,20.348 3.09,20.348 3.09,5.925 6.99,1.837 
+  		52.733,1.837 	"/>
+  	<path fill="#CCCCCC" stroke="#000000" d="M0.511,35.389V3.458c0,0-0.329-2.958,2.636-2.958c2.965,0,4.502,1.232,4.502,1.232
+  		L3.037,6.479v13.87h1.866v15.041H0.511z"/>
+  	<path fill="#CCCCCC" stroke="#000000" d="M55.289,20.411v31.931c0,0,0.329,2.958-2.636,2.958s-4.502-1.232-4.502-1.232l4.612-4.747
+  		v-13.87h-1.867V20.411H55.289z"/>
+  </g>
+  <g id="Outline" display="none">
+  	<polygon display="inline" fill="none" stroke="#000000" stroke-linejoin="round" points="52.733,20.348 50.867,20.348 
+  		50.867,35.266 52.733,35.266 52.733,49.445 48.609,53.925 3.09,53.925 3.09,35.266 4.801,35.266 4.801,20.348 3.09,20.348 
+  		3.09,5.925 6.99,1.837 52.733,1.837 	"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M0.511,35.389V3.458c0,0-0.329-2.958,2.636-2.958
+  		c2.965,0,4.502,1.232,4.502,1.232L3.037,6.479v13.87h1.866v15.041H0.511z"/>
+  	<path display="inline" fill="none" stroke="#000000" d="M55.289,20.411v31.931c0,0,0.329,2.958-2.636,2.958
+  		s-4.502-1.232-4.502-1.232l4.612-4.747v-13.87h-1.867V20.411H55.289z"/>
+  </g>
+</g>
+<g id="DNH0008A">
+  <g id="Mask" style="display:none;">
+  	<g id="Color_3_" style="display:inline;">
+  		<g>
+  			<rect x="0.125" y="0.125" width="12.95" height="12.95"/>
+  			<path d="M12.95,0.25v12.7H0.25V0.25H12.95 M13.2,0H0v13.2h13.2V0L13.2,0z"/>
+  		</g>
+  		<g>
+  			<circle cx="1.598" cy="1.876" r="0.476"/>
+  			<path d="M1.598,1.525c0.194,0,0.351,0.158,0.351,0.351S1.791,2.227,1.598,2.227c-0.194,0-0.351-0.158-0.351-0.351
+  				S1.404,1.525,1.598,1.525 M1.598,1.275c-0.332,0-0.601,0.269-0.601,0.601s0.269,0.601,0.601,0.601
+  				c0.332,0,0.601-0.269,0.601-0.601S1.93,1.275,1.598,1.275L1.598,1.275z"/>
+  		</g>
+  	</g>
+  </g>
+  <g id="Outline" style="display:none;">
+  	<g id="Color_2_" style="display:inline;">
+  		<g>
+  			<path d="M12.95,0.25v12.7H0.25V0.25H12.95 M13.2,0H0v13.2h13.2V0L13.2,0z"/>
+  		</g>
+  		<g>
+  			<path d="M1.598,1.525c0.194,0,0.351,0.158,0.351,0.351S1.791,2.227,1.598,2.227c-0.194,0-0.351-0.158-0.351-0.351
+  				S1.404,1.525,1.598,1.525 M1.598,1.275c-0.332,0-0.601,0.269-0.601,0.601s0.269,0.601,0.601,0.601
+  				c0.332,0,0.601-0.269,0.601-0.601S1.93,1.275,1.598,1.275L1.598,1.275z"/>
+  		</g>
+  	</g>
+  </g>
+  <g id="Color">
+  	<g id="Color_1_">
+  		<g>
+  			<rect x="0.125" y="0.125" style="fill:#404040;" width="12.95" height="12.95"/>
+  			<path d="M12.95,0.25v12.7H0.25V0.25H12.95 M13.2,0H0v13.2h13.2V0L13.2,0z"/>
+  		</g>
+  		<g>
+  			<circle cx="1.598" cy="1.876" r="0.476"/>
+  			<path d="M1.598,1.525c0.194,0,0.351,0.158,0.351,0.351S1.791,2.227,1.598,2.227c-0.194,0-0.351-0.158-0.351-0.351
+  				S1.404,1.525,1.598,1.525 M1.598,1.275c-0.332,0-0.601,0.269-0.601,0.601s0.269,0.601,0.601,0.601
+  				c0.332,0,0.601-0.269,0.601-0.601S1.93,1.275,1.598,1.275L1.598,1.275z"/>
+  		</g>
+  	</g>
+  </g>
+</g>
+<g id="RGY0020B">
+  <g id="Mask" style="display:none;">
+  	<g style="display:inline;">
+  		<rect x="0.076" y="0.075" width="13.85" height="17.85"/>
+  		<path d="M13.85,0.15v17.7H0.15V0.15H13.85 M14,0H0v18h14V0L14,0z"/>
+  	</g>
+  	<g style="display:inline;">
+  		<circle cx="1.1" cy="1.1" r="0.425"/>
+  		<path d="M1.1,0.75c0.193,0,0.35,0.157,0.35,0.35S1.293,1.45,1.1,1.45S0.75,1.293,0.75,1.1S0.907,0.75,1.1,0.75 M1.1,0.6
+  			c-0.276,0-0.5,0.224-0.5,0.5s0.224,0.5,0.5,0.5s0.5-0.224,0.5-0.5S1.376,0.6,1.1,0.6L1.1,0.6z"/>
+  	</g>
+  </g>
+  <g id="Outline" style="display:none;">
+  	<g style="display:inline;">
+  		<path d="M13.85,0.15v17.7H0.15V0.15H13.85 M14,0H0v18h14V0L14,0z"/>
+  	</g>
+  	<g style="display:inline;">
+  		<path d="M1.1,0.75c0.193,0,0.35,0.157,0.35,0.35S1.293,1.45,1.1,1.45S0.75,1.293,0.75,1.1S0.907,0.75,1.1,0.75 M1.1,0.6
+  			c-0.276,0-0.5,0.224-0.5,0.5s0.224,0.5,0.5,0.5s0.5-0.224,0.5-0.5S1.376,0.6,1.1,0.6L1.1,0.6z"/>
+  	</g>
+  </g>
+  <g id="Color">
+  	<g>
+  		<rect x="0.076" y="0.075" style="fill:#4D4D4D;" width="13.85" height="17.85"/>
+  		<path d="M13.85,0.15v17.7H0.15V0.15H13.85 M14,0H0v18h14V0L14,0z"/>
+  	</g>
+  	<g>
+  		<circle style="fill:#4D4D4D;" cx="1.1" cy="1.1" r="0.425"/>
+  		<path d="M1.1,0.75c0.193,0,0.35,0.157,0.35,0.35S1.293,1.45,1.1,1.45S0.75,1.293,0.75,1.1S0.907,0.75,1.1,0.75 M1.1,0.6
+  			c-0.276,0-0.5,0.224-0.5,0.5s0.224,0.5,0.5,0.5s0.5-0.224,0.5-0.5S1.376,0.6,1.1,0.6L1.1,0.6z"/>
+  	</g>
+  </g>
+</g>
+</defs>
+<g id="boardComps">
+  <g id="topview_images">
+    <use x="165.0" y="99.0" width="8.0" height="5.0" transform="rotate(-90.0 169.0 102.0)" xlink:href="#0805" />
+    <use x="221.0" y="104.0" width="4.0" height="2.0" xlink:href="#0402" />
+    <use x="208.0" y="103.0" width="4.0" height="2.0" xlink:href="#0402" />
+    <use x="221.0" y="88.0" width="4.0" height="2.0" transform="rotate(-180.0 223.0 89.0)" xlink:href="#0402" />
+    <use x="179.0" y="75.0" width="6.0" height="3.0" transform="rotate(-180.0 183.0 77.0)" xlink:href="#0603" />
+    <use x="206.0" y="118.0" width="4.0" height="2.0" transform="rotate(-90.0 208.0 119.0)" xlink:href="#0402" />
+    <use x="162.0" y="85.0" width="14.0" height="8.0" transform="rotate(-270.0 169.0 89.0)" xlink:href="#1206" />
+    <use x="178.0" y="112.0" width="6.0" height="3.0" transform="rotate(-90.0 181.0 114.0)" xlink:href="#0603" />
+    <rect x="43.0" y="83.0" width="0.0" height="0.0" transform="rotate(-270.0 196.0 84.0)" style="fill:white;stroke:black;stroke-width:1;" />
+    <rect x="65.0" y="97.0" width="0.0" height="0.0" transform="rotate(-270.0 174.0 98.0)" style="fill:white;stroke:black;stroke-width:1;" />
+    <use x="221.0" y="96.0" width="4.0" height="2.0" transform="rotate(-180.0 223.0 97.0)" xlink:href="#0402" />
+    <use x="221.0" y="81.0" width="4.0" height="2.0" xlink:href="#0402" />
+    <use x="203.0" y="93.0" width="4.0" height="2.0" transform="rotate(-90.0 205.0 94.0)" xlink:href="#0402" />
+    <use x="210.0" y="92.0" width="6.0" height="3.0" transform="rotate(-90.0 213.0 94.0)" xlink:href="#0603" />
+    <use x="168.0" y="76.0" width="4.0" height="2.0" xlink:href="#0402" />
+    <use x="203.0" y="74.0" width="6.0" height="3.0" transform="rotate(-180.0 206.0 75.0)" xlink:href="#0603" />
+    <use x="198.0" y="118.0" width="4.0" height="2.0" transform="rotate(-90.0 200.0 119.0)" xlink:href="#0402" />
+    <use x="174.0" y="124.0" width="4.0" height="2.0" xlink:href="#0402" />
+    <use x="189.0" y="117.0" width="6.0" height="3.0" transform="rotate(-90.0 192.0 119.0)" xlink:href="#0603" />
+    <use x="203.0" y="82.0" width="6.0" height="3.0" xlink:href="#0603" />
+    <use x="169.0" y="113.0" width="6.0" height="3.0" transform="rotate(-270.0 172.0 114.0)" xlink:href="#0603" />
+    <use x="180.0" y="86.0" width="14.0" height="18.0" transform="rotate(-180.0 187.0 95.0)" xlink:href="#RGY0020B" />
+  </g>
+</g>
+</svg>
